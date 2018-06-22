@@ -1,0 +1,1 @@
+Code Challenges Solved At Forsk Technologies Machine Learning Bootcamp.

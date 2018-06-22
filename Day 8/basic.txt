@@ -1,0 +1,31 @@
+from collection import counter
+mylist=[1,1,2,3,4,5,3,2,3,4,2,1,2,3]
+
+cnt=Counter(mylist)
+cnt.items()----gives list of tuples of key value pair
+
+
+from collections import defaultdict
+dd=defaultdict(int)
+for key in s:
+dd[key]+=1
+
+print dd
+
+
+from collection import OrederedDict
+from collectio import namedtuple
+Point=namedtuple('Point','x,y')
+pt1=Point(1,2)
+pt2=Point(3,4)
+dot_product=(pt1.x*pt2.x)+(pt1.y*pt2.y)
+
+
+print zip([1,2,3,4,5,6],''HAckerrank)---same number of items would be zipped extra will be left
+
+all(['a'<'b','b'<'c'])
+
+any(['a'<'b','b'<'c'])
+
+
+

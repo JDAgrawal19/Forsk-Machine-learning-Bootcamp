@@ -1,0 +1,9 @@
+
+{
+"First Name":"JITESH",
+"Last Name": "DHOOT",
+"Photo": "https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fcommunity-cdn-digitalocean-com.global.ssl.fastly.net%2Fassets%2Ftutorials%2Fimages%2Flarge%2Fintroduction-to-machine-learning_social.png%3F1510178550&imgrefurl=https%3A%2F%2Fwww.digitalocean.com%2Fcommunity%2Ftutorials%2Fan-introduction-to-machine-learning&docid=eL_gRmYuCPT3IM&tbnid=s-mbNiSU34TSzM%3A&vet=10ahUKEwjCvKvtw47bAhWHQ48KHd3kB2cQMwjwASgCMAI..i&w=750&h=375&bih=759&biw=1536&q=machine%20learning&ved=0ahUKEwjCvKvtw47bAhWHQ48KHd3kB2cQMwjwASgCMAI&iact=mrc&uact=8",
+"Department":"ECE",
+"Research Areas":["ML","AI"], 
+"Contact Details":{ "EMAIL":"bansal.jda@gmail.com","Phone no":"+919413600451"}
+}
